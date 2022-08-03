@@ -161,5 +161,5 @@ At the end of our Spark job, according to the specification, we received our 5 f
 These files can later be used to create a star schema model like the one below:
 
 <p align="center">
-<img  width="726" height= "804" src=/images/sparkify_er.png alt="Sparkify ER Diagram">
+<img  width="50%" height= "50%" src=/images/sparkify_er.png alt="Sparkify ER Diagram">
 </p>
